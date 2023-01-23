@@ -112,3 +112,4 @@ while game:
     display.update()
 
 pygame.quit()
+print("Ok")
